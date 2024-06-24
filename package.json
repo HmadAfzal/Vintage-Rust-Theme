@@ -1,0 +1,36 @@
+{
+  "name": "vintage-rust-theme",
+  "displayName": "Vintage Rust Theme",
+  "description": "An Amazing theme for vintage lovers",
+  "version": "0.1.0",
+  "publisher": "Hmad Afzal",
+  "icon": "./public/Vintage-Rust.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HmadAfzal/Vintage-Rust-Theme"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "best dark theme",
+    "coder theme",
+    "Hmad Afzal",
+    "vintage theme",
+    "vintage rust theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vintage Rust Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vintage-Rust-Theme.json"
+      }
+    ]
+  }
+}
