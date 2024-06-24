@@ -3,7 +3,7 @@
   "displayName": "Vintage Rust Theme",
   "description": "An Amazing theme for vintage lovers",
   "version": "0.1.0",
-  "publisher": "Hmad Afzal",
+  "publisher": "HmadAfzal",
   "icon": "./public/Vintage-Rust.png",
   "repository": {
     "type": "git",
